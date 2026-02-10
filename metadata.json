@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartResume Analyzer",
+  "description": "AI-powered resume optimizer for freshers. Analyzes your skills, suggests improvements, and matches you with top job roles using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
